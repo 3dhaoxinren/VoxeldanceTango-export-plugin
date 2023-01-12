@@ -1,3 +1,6 @@
-This patch is available for voxeldare Tango v2 11.99.60.
-/====================================/
+VoxeldanceTango是一款极其智能的光固化切片软件，可惜的是在导出个别切片格式的时候还需要通过打开uvtools进行转换，这款插件在安装之后，可以在tango软件中一键导出uvtools支持的所有切片格式
+本插件仅供学习交流，严禁用于商业用途。
+使用方法：
+1：安装voxeldancetango切片软件
+2：管理员身份运行 run me by administrator.bat
 你也可以手动安装UVTools，然后将format文件夹拷贝到UVTools安装目录。
